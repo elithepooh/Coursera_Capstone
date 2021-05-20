@@ -1,948 +1,948 @@
-,Nom municipi,Densitat,MUNICIPI
-0,Abrera,630.05,80018
-1,Aguilar de Segarra,6.51,80023
-2,Aiguafreda,317.97,80142
-3,Alella,1031.67,80039
-4,Alpens,18.91,80044
-5,Arenys de Mar,2344.26,80060
-6,Arenys de Munt,428.22,80076
-7,Argentona,493.54,80095
-8,Argençola,4.65,80082
-9,Artés,321.9,80109
-10,Avinyonet del Penedès,58.32,80137
-11,Avinyó,36.22,80121
-12,Avià,81.62,80116
-13,Badalona,10526.7,80155
-14,Badia del Vallès,14905.56,89045
-15,Bagà,49.65,80168
-16,Balenyà,220.69,80174
-17,Balsareny,86.5,80180
-18,Barberà del Vallès,4016.14,82520
-19,Barcelona,16428.25,80193
-20,Begues,144.84,80207
-21,Bellprat,2.06,80214
-22,Berga,741.59,80229
-23,Bigues i Riells,327.2,80235
-24,Borredà,10.67,80240
-25,Cabrera d'Anoia,87.18,80288
-26,Cabrera de Mar,527.44,80291
-27,Cabrils,1061.71,80305
-28,Calaf,397.39,80312
-29,Calders,31.57,80348
-30,Caldes d'Estrac,3356.67,80327
-31,Caldes de Montbui,474.99,80333
-32,Calella,2409.63,80351
-33,Calldetenes,433.28,80370
-34,Callús,170.32,80386
-35,Calonge de Segarra,5.07,80364
-36,Campins,74.11,80399
-37,Canet de Mar,2654.46,80403
-38,Canovelles,2511.79,80410
-39,Canyelles,330.92,80431
-40,Capellades,1817.01,80446
-41,Capolat,2.46,80459
-42,Cardedeu,1522.64,80462
-43,Cardona,69.55,80478
-44,Carme,67.09,80484
-45,Casserres,53.83,80497
-46,Castell de l'Areny,2.75,80575
-47,Castellar de n'Hug,3.31,80522
-48,Castellar del Riu,5.38,80500
-49,Castellar del Vallès,545.39,80517
-50,Castellbell i el Vilar,130.49,80538
-51,Castellbisbal,404.48,80543
-52,Castellcir,21.7,80556
-53,Castelldefels,5229.46,80569
-54,Castellet i la Gornal,50.15,80581
-55,Castellfollit de Riubregós,6.18,80608
-56,Castellfollit del Boix,7.59,80594
-57,Castellgalí,123.2,80615
-58,Castellnou de Bages,49.21,80620
-59,Castellolí,24.74,80636
-60,Castellterçol,79.87,80641
-61,Castellví de Rosanes,117.87,80667
-62,Castellví de la Marca,55.46,80654
-63,Centelles,494.28,80673
-64,Cercs,24.26,82687
-65,Cerdanyola del Vallès,1890.69,82665
-66,Cervelló,376.64,80689
-67,Collbató,251.05,80692
-68,Collsuspina,23.77,80706
-69,Copons,17.17,80713
-70,Corbera de Llobregat,808.8,80728
-71,Cornellà de Llobregat,12866.38,80734
-72,Cubelles,1168.15,80749
-73,Cànoves i Samalús,108.08,80425
-74,Dosrius,138.87,80752
-75,Esparreguera,813.94,80765
-76,Esplugues de Llobregat,10250.0,80771
-77,Fogars de Montclús,11.96,80811
-78,Fogars de la Selva,45.76,80826
-79,Folgueroles,215.71,80832
-80,Fonollosa,28.22,80847
-81,Font-rubí,38.04,80850
-82,Fígols,1.47,80804
-83,Gaià,4.63,80902
-84,Gallifa,10.25,80879
-85,Gavà,1529.81,80898
-86,Gelida,287.27,80919
-87,Gironella,727.35,80924
-88,Gisclareny,0.71,80930
-89,Granera,3.25,80958
-90,Granollers,4189.19,80961
-91,Gualba,66.44,80977
-92,Guardiola de Berguedà,15.25,80996
-93,Gurb,52.58,81000
-94,Igualada,5029.88,81022
-95,Jorba,26.96,81038
-96,L'Hospitalet de Llobregat,21724.35,81017
-97,Llinars del Vallès,362.97,81069
-98,Lliçà d'Amunt,693.68,81075
-99,Lliçà de Vall,601.57,81081
-100,Lluçà,5.21,81094
-101,Malgrat de Mar,2133.18,81108
-102,Malla,24.73,81115
-103,Manlleu,1215.81,81120
-104,Manresa,1880.89,81136
-105,Marganell,19.7,82423
-106,Martorell,2247.81,81141
-107,Martorelles,1338.89,81154
-108,Masquefa,549.82,81192
-109,Matadepera,373.86,81206
-110,Mataró,5762.71,81213
-111,Mediona,49.87,81228
-112,Moià,84.77,81385
-113,Molins de Rei,1631.45,81234
-114,Mollet del Vallès,4777.78,81249
-115,Monistrol de Calders,31.91,81287
-116,Monistrol de Montserrat,266.02,81271
-117,Montcada i Reixac,1566.09,81252
-118,Montclar,6.35,81304
-119,Montesquiu,210.2,81311
-120,Montgat,4206.9,81265
-121,Montmajor,6.13,81326
-122,Montmaneu,11.1,81332
-123,Montmeló,2207.75,81350
-124,Montornès del Vallès,1631.76,81363
-125,Montseny,13.1,81379
-126,Muntanyola,15.68,81290
-127,Mura,4.6,81398
-128,Navarcles,1101.27,81402
-129,Navars,74.67,81419
-130,Olesa de Bonesvalls,59.74,81461
-131,Olesa de Montserrat,1451.83,81477
-132,Olivella,101.42,81483
-133,Olost,40.88,81496
-134,Olvan,24.1,81445
-135,Olèrdola,125.18,81458
-136,Oristà,8.01,81516
-137,Orpí,9.93,81521
-138,Orís,11.84,81509
-139,Pacs del Penedès,145.71,81542
-140,Palafolls,579.1,81555
-141,Palau-solità i Plegamans,999.46,81568
-142,Pallejà,1400.24,81574
-143,Parets del Vallès,2095.71,81593
-144,Perafita,20.66,81607
-145,Piera,282.06,81614
-146,Pineda de Mar,2615.33,81635
-147,Polinyà,966.36,81672
-148,Pontons,20.39,81688
-149,Prats de Lluçanès,188.7,81712
-150,Premià de Dalt,1581.97,82303
-151,Premià de Mar,13586.19,81727
-152,Puig-reig,93.78,81751
-153,Puigdàlber,1310.0,81748
-154,Pujalt,6.69,81764
-155,Rajadell,11.74,81786
-156,Rellinars,45.45,81799
-157,Ripollet,9111.4,81803
-158,Roda de Ter,2950.0,81831
-159,Rubió,4.98,81859
-160,Rubí,2433.16,81846
-161,Rupit i Pruit,5.67,89019
-162,Sabadell,5728.04,81878
-163,Sagàs,3.25,81884
-164,Saldes,4.19,81901
-165,Sallent,103.3,81918
-166,Sant Adrià de Besòs,9854.47,81944
-167,Sant Agustí de Lluçanès,6.74,81957
-168,Sant Andreu de Llavaneres,943.47,81976
-169,Sant Andreu de la Barca,5012.55,81960
-170,Sant Antoni de Vilamajor,453.14,81982
-171,Sant Bartomeu del Grau,25.7,81995
-172,Sant Boi de Llobregat,3930.23,82009
-173,Sant Boi de Lluçanès,29.74,82016
-174,Sant Cebrià de Vallalta,218.98,82037
-175,Sant Celoni,278.16,82021
-176,Sant Climent de Llobregat,385.19,82042
-177,Sant Cugat Sesgarrigues,162.74,82068
-178,Sant Cugat del Vallès,1928.98,82055
-179,Sant Esteve Sesrovires,413.76,82080
-180,Sant Esteve de Palautordera,270.19,82074
-181,Sant Feliu Sasserra,27.01,82129
-182,Sant Feliu de Codines,424.2,82107
-183,Sant Feliu de Llobregat,3853.14,82114
-184,Sant Fost de Campsentelles,670.68,82093
-185,Sant Fruitós de Bages,398.06,82135
-186,Sant Hipòlit de Voltregà,3933.33,82153
-187,Sant Iscle de Vallalta,75.39,81939
-188,Sant Jaume de Frontanyà,1.41,82166
-189,Sant Joan Despí,5526.94,82172
-190,Sant Joan de Vilatorrada,670.61,82188
-191,Sant Julià de Cerdanyola,19.41,89030
-192,Sant Julià de Vilatorta,197.48,82205
-193,Sant Just Desvern,2393.59,82212
-194,Sant Llorenç Savall,58.81,82233
-195,Sant Llorenç d'Hortons,123.25,82227
-196,Sant Martí Sarroca,92.38,82270
-197,Sant Martí Sesgueioles,87.69,82286
-198,Sant Martí d'Albars,7.76,82251
-199,Sant Martí de Centelles,46.25,82248
-200,Sant Martí de Tous,31.33,82264
-201,Sant Mateu de Bages,5.91,82299
-202,Sant Pere Sallavinera,6.86,81897
-203,Sant Pere de Ribes,762.52,82310
-204,Sant Pere de Riudebitlles,440.74,82325
-205,Sant Pere de Torelló,44.83,82331
-206,Sant Pere de Vilamajor,130.95,82346
-207,Sant Pol de Mar,723.73,82359
-208,Sant Quintí de Mediona,167.9,82362
-209,Sant Quirze Safaja,24.08,82397
-210,Sant Quirze de Besora,265.93,82378
-211,Sant Quirze del Vallès,1432.27,82384
-212,Sant Sadurní d'Anoia,675.84,82401
-213,Sant Sadurní d'Osormort,2.48,82418
-214,Sant Salvador de Guardiola,86.82,80983
-215,Sant Vicenç de Castellet,571.17,82628
-216,Sant Vicenç de Montalt,796.54,82649
-217,Sant Vicenç de Torelló,311.82,82652
-218,Sant Vicenç dels Horts,3106.37,82634
-219,Santa Cecília de Voltregà,21.16,82439
-220,Santa Coloma de Cervelló,1102.4,82444
-221,Santa Coloma de Gramenet,17206.14,82457
-222,Santa Eugènia de Berga,325.43,82460
-223,Santa Eulàlia de Riuprimer,100.22,82476
-224,Santa Eulàlia de Ronçana,522.96,82482
-225,Santa Fe del Penedès,107.94,82495
-226,Santa Margarida de Montbui,370.47,82508
-227,Santa Margarida i els Monjos,446.28,82515
-228,Santa Maria d'Oló,15.47,82589
-229,Santa Maria de Besora,6.52,82536
-230,Santa Maria de Martorelles,197.78,82567
-231,Santa Maria de Merlès,3.53,82554
-232,Santa Maria de Miralles,4.76,82573
-233,Santa Maria de Palautordera,569.82,82592
-234,Santa Perpètua de Mogoda,1645.51,82606
-235,Santa Susanna,281.59,82613
-236,Santpedor,458.07,81923
-237,Sentmenat,320.66,82671
-238,Seva,116.58,82690
-239,Sitges,673.19,82704
-240,Sobremunt,5.65,82711
-241,Sora,6.69,82726
-242,Subirats,55.53,82732
-243,Súria,252.03,82747
-244,Tagamanent,7.34,82763
-245,Talamanca,7.11,82779
-246,Taradell,250.57,82785
-247,Tavertet,3.23,82802
-248,Tavèrnoles,17.13,82750
-249,Teià,973.79,82819
-250,Terrassa,3185.57,82798
-251,Terrassola i Lavit,60.25,82877
-252,Tiana,1118.13,82824
-253,Tona,506.42,82830
-254,Tordera,208.31,82845
-255,Torelló,1066.67,82858
-256,Torrelles de Foix,65.34,82883
-257,Torrelles de Llobregat,446.54,82896
-258,Ullastrell,286.16,82900
-259,Vacarisses,167.86,82917
-260,Vallbona d'Anoia,208.77,82922
-261,Vallcebre,8.89,82938
-262,Vallgorguina,135.2,82943
-263,Vallirana,640.67,82956
-264,Vallromanes,239.07,82969
-265,Veciana,4.5,82975
-266,Vic,1556.54,82981
-267,Vilada,18.79,82994
-268,Viladecans,3293.97,83015
-269,Viladecavalls,375.37,83008
-270,Vilafranca del Penedès,2048.67,83054
-271,Vilalba Sasserra,125.5,83067
-272,Vilanova de Sau,5.31,83036
-273,Vilanova del Camí,1222.91,83020
-274,Vilanova del Vallès,362.04,89024
-275,Vilanova i la Geltrú,1992.15,83073
-276,Vilassar de Dalt,1019.33,82140
-277,Vilassar de Mar,5258.75,82191
-278,Vilobí del Penedès,118.49,83041
-279,Viver i Serrateix,2.57,83089
-280,el Bruc,44.7,80253
-281,el Brull,6.29,80266
-282,el Figueró i Montmany,76.13,81347
-283,el Masnou,7009.12,81189
-284,el Papiol,468.76,81580
-285,el Pla del Penedès,132.81,81640
-286,el Pont de Vilomara i Rocafort,142.59,81825
-287,el Prat de Llobregat,2028.7,81691
-288,els Hostalets de Pierola,88.96,81629
-289,els Prats de Rei,20.57,81705
-290,l'Ametlla del Vallès,608.87,80057
-291,l'Espunyola,6.82,80787
-292,l'Esquirol,35.37,82541
-293,l'Estany,39.61,80790
-294,la Garriga,886.6,80885
-295,la Granada,339.69,80945
-296,la Llacuna,17.3,81043
-297,la Llagosta,4529.0,81056
-298,la Nou de Berguedà,6.48,81424
-299,la Palma de Cervelló,544.0,89058
-300,la Pobla de Claramunt,118.11,81653
-301,la Pobla de Lillet,21.22,81666
-302,la Quar,1.28,81770
-303,la Roca del Vallès,291.44,81810
-304,la Torre de Claramunt,249.4,82861
-305,les Cabanyes,890.0,80272
-306,les Franqueses del Vallès,699.79,80863
-307,les Masies de Roda,43.84,81167
-308,les Masies de Voltregà,139.82,81173
-309,Òdena,69.6,81430
-310,Òrrius,132.98,81537
-0,Abella de la Conca,2.34,250019
-1,Agramunt,67.89,250030
-2,Aitona,38.37,250387
-3,Albatàrrec,212.95,250077
-4,Albesa,41.52,250083
-5,Alcanó,11.33,250100
-6,Alcarràs,84.93,250117
-7,Alcoletge,205.69,250122
-8,Alfarràs,242.54,250138
-9,Alfés,9.31,250143
-10,Algerri,7.44,250156
-11,Alguaire,60.46,250169
-12,Alins,1.48,250175
-13,Almacelles,139.31,250194
-14,Almatret,5.37,250208
-15,Almenar,50.41,250215
-16,Alpicat,409.54,250236
-17,Alt Àneu,1.9,250241
-18,Alàs i Cerc,5.55,250058
-19,Alòs de Balaguer,1.91,250220
-20,Anglesola,58.09,250273
-21,Arbeca,36.47,250292
-22,Arres,5.17,250313
-23,Arsèguel,7.64,250328
-24,Artesa de Lleida,64.23,250334
-25,Artesa de Segre,19.33,250349
-26,Aspa,21.57,250365
-27,Baix Pallars,2.56,250390
-28,Balaguer,304.92,250404
-29,Barbens,115.53,250411
-30,Bassella,3.09,250447
-31,Bausen,3.39,250450
-32,Belianes,33.12,250463
-33,Bell-lloc d'Urgell,66.91,250485
-34,Bellaguarda,16.78,251706
-35,Bellcaire d'Urgell,38.18,250479
-36,Bellmunt d'Urgell,36.27,250498
-37,Bellpuig,149.09,250501
-38,Bellver de Cerdanya,20.42,250518
-39,Bellvís,48.39,250523
-40,Benavent de Segrià,205.14,250539
-41,Biosca,2.67,250557
-42,Bossòst,39.54,250595
-43,Bovera,7.97,250560
-44,Cabanabona,5.0,250609
-45,Cabó,1.16,250616
-46,Camarasa,5.16,250621
-47,Canejan,1.84,250637
-48,Castell de Mur,2.77,259046
-49,Castellar de la Ribera,2.18,250642
-50,Castelldans,14.29,250674
-51,Castellnou de Seana,41.3,250680
-52,Castellserà,63.04,250707
-53,Castelló de Farfanya,10.25,250693
-54,Cava,1.07,250714
-55,Cervera,169.38,250729
-56,Cervià de les Garrigues,19.36,250735
-57,Ciutadilla,12.24,250740
-58,Clariana de Cardener,3.95,250753
-59,Coll de Nargó,3.57,250772
-60,Conca de Dalt,2.46,251615
-61,Corbins,69.62,250788
-62,Cubells,8.62,250791
-63,Es Bòrdes,11.92,250576
-64,Espot,3.76,250827
-65,Estamariu,5.9,250886
-66,Estaràs,7.43,250851
-67,Esterri d'Àneu,94.59,250864
-68,Esterri de Cardós,3.86,250870
-69,Farrera,1.74,250899
-70,Fondarella,143.7,250931
-71,Foradada,7.1,250946
-72,Fulleda,6.3,250978
-73,Fígols i Alinyà,2.4,259084
-74,Gavet de la Conca,2.87,250984
-75,Gimenells i el Pla de la Font,20.07,259123
-76,Golmés,111.75,250997
-77,Granyanella,5.86,251039
-78,Granyena de Segarra,9.26,251044
-79,Granyena de les Garrigues,6.83,251057
-80,Guimerà,10.5,251095
-81,Guissona,400.44,251109
-82,Guixers,1.99,251116
-83,Gósol,3.66,251001
-84,Isona i Conca Dellà,7.47,251155
-85,Ivars d'Urgell,63.25,251137
-86,Ivars de Noguera,12.25,251121
-87,Ivorra,7.01,251142
-88,Josa i Tuixén,1.51,259101
-89,Juncosa,5.16,251180
-90,Juneda,74.02,251193
-91,La Granja d'Escarp,23.95,251023
-92,Les,41.5,251214
-93,Linyola,94.67,251229
-94,Lladorre,1.61,251235
-95,Lladurs,1.41,251240
-96,Llardecans,6.73,251253
-97,Llavorsí,5.05,251266
-98,Lleida,661.34,251207
-99,Lles de Cerdanya,2.63,251272
-100,Llimiana,3.5,251288
-101,Llobera,4.8,251291
-102,Maials,15.92,251333
-103,Maldà,7.23,251305
-104,Massalcoreig,43.26,251312
-105,Massoteres,8.12,251327
-106,Menàrguens,40.05,251348
-107,Miralcamp,92.95,251351
-108,Mollerussa,2063.24,251370
-109,Montellà i Martinet,10.51,251399
-110,Montferrer i Castellbò,5.85,251403
-111,Montgai,22.25,251386
-112,Montoliu de Lleida,66.16,251425
-113,Montoliu de Segarra,6.34,251410
-114,Montornès de Segarra,7.8,251431
-115,Nalec,9.68,251459
-116,Naut Aran,7.18,250254
-117,Navès,1.95,251462
-118,Odèn,2.26,251484
-119,Oliana,56.88,251497
-120,Oliola,2.35,251500
-121,Olius,17.9,251517
-122,Organyà,61.68,251556
-123,Os de Balaguer,7.21,251569
-124,Ossó de Sió,7.72,251575
-125,Penelles,17.1,251641
-126,Peramola,6.17,251654
-127,Pinell de Solsonès,2.12,251667
-128,Pinós,2.74,251673
-129,Ponts,86.69,251728
-130,Prats i Sansor,33.64,251752
-131,Preixana,18.0,251765
-132,Preixens,14.56,251771
-133,Prullans,10.66,251790
-134,Puiggròs,28.08,251804
-135,Puigverd d'Agramunt,13.47,251811
-136,Puigverd de Lleida,107.92,251826
-137,Rialb,10.13,251832
-138,Ribera d'Ondara,7.94,259059
-139,Ribera d'Urgellet,8.71,251850
-140,Riner,5.58,251863
-141,Riu de Cerdanya,7.56,259139
-142,Rosselló,326.97,251898
-143,Salàs de Pallars,16.11,251902
-144,Sanaüja,11.48,251919
-145,Sant Esteve de la Sarga,1.31,251961
-146,Sant Guim de Freixenet,41.31,251924
-147,Sant Guim de la Plana,14.6,251977
-148,Sant Llorenç de Morunys,223.26,251930
-149,Sant Martí de Riucorb,18.31,259025
-150,Sant Ramon,26.32,251945
-151,Sarroca de Bellera,1.33,252017
-152,Sarroca de Lleida,8.48,252000
-153,Senterada,4.03,252022
-154,Seròs,22.68,252043
-155,Sidamon,92.35,252056
-156,Solsona,516.21,252075
-157,Soriguera,3.95,252081
-158,Sort,20.49,252094
-159,Soses,58.31,252108
-160,Sudanell,96.55,252115
-161,Sunyer,27.01,252120
-162,Talarn,21.33,252154
-163,Talavera,9.27,252167
-164,Tarroja de Segarra,24.74,252192
-165,Tarrés,7.85,252189
-166,Tiurana,4.84,252228
-167,Tornabous,33.97,252252
-168,Torre-serona,67.46,252332
-169,Torrebesses,9.74,252265
-170,Torrefarrera,199.74,252287
-171,Torrefeta i Florejacs,6.83,259078
-172,Torregrossa,53.8,252304
-173,Torrelameu,67.43,252311
-174,Torres de Segre,46.76,252326
-175,Torà,13.26,252234
-176,Tremp,19.52,252347
-177,Tàrrega,197.34,252173
-178,Térmens,49.45,252206
-179,Tírvia,15.76,252213
-180,Vall de Cardós,6.23,259010
-181,Vallbona de les Monges,7.13,252385
-182,Vallfogona de Balaguer,70.59,252402
-183,Verdú,25.2,252424
-184,Vielha e Mijaran,26.5,252430
-185,Vila-sana,38.43,252521
-186,Vilagrassa,28.14,252445
-187,Vilaller,9.27,252458
-188,Vilamòs,11.56,252477
-189,Vilanova de Bellpuig,84.5,252483
-190,Vilanova de Meià,3.94,252509
-191,Vilanova de Segrià,115.88,252516
-192,Vilanova de l'Aguda,3.72,252496
-193,Vilanova de la Barca,50.37,252542
-194,Vinaixa,11.97,252555
-195,el Cogul,8.63,250766
-196,el Palau d'Anglesola,176.1,251581
-197,el Poal,75.28,251689
-198,el Pont de Bar,3.57,250306
-199,el Pont de Suert,15.24,251734
-200,el Soleràs,27.21,252069
-201,el Vilosell,9.21,252537
-202,els Alamús,39.56,250045
-203,els Omellons,18.56,251538
-204,els Omells de na Gaia,9.63,251543
-205,els Plans de Sió,8.78,259118
-206,els Torms,10.0,252249
-207,l'Albagés,14.05,250061
-208,l'Albi,22.89,250096
-209,l'Espluga Calba,15.3,250812
-210,la Baronia de Rialb,1.58,250426
-211,la Coma i la Pedra,4.21,251636
-212,la Floresta,25.45,250925
-213,la Fuliola,112.61,250962
-214,la Granadella,8.07,251018
-215,la Guingueta d'Àneu,2.67,259031
-216,la Molsosa,3.87,251364
-217,la Pobla de Cérvoles,3.05,251692
-218,la Pobla de Segur,92.77,251713
-219,la Portella,60.41,251749
-220,la Sentiu de Sió,13.99,250352
-221,la Seu d'Urgell,792.6,252038
-222,la Torre de Cabdella,4.59,252271
-223,la Vall de Boí,4.64,250432
-224,la Vansa i Fórnols,1.4,259097
-225,les Avellanes i Santa Linya,4.2,250371
-226,les Borges Blanques,100.37,250582
-227,les Oluges,9.05,251522
-228,les Valls d'Aguilar,1.98,259062
-229,les Valls de Valira,4.58,252398
-230,Àger,3.61,250024
-0,Agullana,31.16,170010
-1,Aiguaviva,55.04,170025
-2,Albanyà,1.64,170031
-3,Albons,68.38,170046
-4,Alp,35.96,170062
-5,Amer,58.15,170078
-6,Anglès,346.87,170084
-7,Arbúcies,76.66,170097
-8,Argelaguer,31.68,170101
-9,Avinyonet de Puigventós,133.41,170123
-10,Banyoles,1806.58,170157
-11,Begur,187.97,170139
-12,Bellcaire d'Empordà,53.81,170182
-13,Besalú,507.55,170195
-14,Bescanó,139.03,170209
-15,Beuda,5.18,170216
-16,Biure,24.1,172348
-17,Blanes,2255.03,170237
-18,Boadella i les Escaules,25.19,170293
-19,Bolvir,36.41,170242
-20,Bordils,241.23,170255
-21,Borrassà,77.98,170268
-22,Breda,752.4,170274
-23,Brunyola i Sant Martí Sapresa,10.57,170280
-24,Bàscara,57.2,170160
-25,Cabanelles,4.8,170314
-26,Cabanes,64.53,170307
-27,Cadaqués,102.08,170329
-28,Caldes de Malavella,137.38,170335
-29,Calonge i Sant Antoni,337.23,170340
-30,Campdevànol,99.14,170366
-31,Campelles,7.53,170372
-32,Campllong,62.44,170388
-33,Campmany,23.14,170427
-34,Camprodon,22.22,170391
-35,Camós,43.12,170353
-36,Canet d'Adri,16.42,170405
-37,Cantallops,15.77,170412
-38,Cassà de la Selva,230.31,170448
-39,Castell-Platja d'Aro,505.96,170486
-40,Castellfollit de la Roca,1352.86,170464
-41,Castelló d'Empúries,262.41,170470
-42,Celrà,285.18,170499
-43,Cervià de Ter,97.58,170502
-44,Cistella,11.02,170519
-45,Colera,18.24,170545
-46,Colomers,40.47,170558
-47,Cornellà del Terri,86.61,170561
-48,Corçà,77.79,170577
-49,Crespià,22.28,170583
-50,"Cruïlles, Monells i Sant Sadurní de l'Heura",12.73,179011
-51,Darnius,15.39,170600
-52,Das,16.03,170617
-53,Espinelves,12.7,170638
-54,Espolla,9.47,170643
-55,Esponellà,28.76,170656
-56,Figueres,2447.41,170669
-57,Flaçà,173.85,170675
-58,Foixà,16.12,170681
-59,Fontanals de Cerdanya,15.28,170694
-60,Fontanilles,15.7,170708
-61,Fontcoberta,84.91,170715
-62,Fornells de la Selva,224.37,170736
-63,Fortià,72.87,170741
-64,Garrigoles,17.77,170767
-65,Garriguella,40.62,170773
-66,Garrigàs,22.66,170754
-67,Ger,13.44,170789
-68,Girona,2643.71,170792
-69,Gombrèn,4.43,170806
-70,Gualta,44.67,170813
-71,Guils de Cerdanya,24.95,170828
-72,Hostalric,1262.06,170834
-73,Isòvol,26.02,170849
-74,Jafre,58.64,170852
-75,Juià,37.98,170871
-76,Lladó,62.52,170887
-77,Llagostera,113.18,170890
-78,Llambilles,48.84,170904
-79,Llanars,21.66,170911
-80,Llançà,170.54,170926
-81,Llers,58.08,170932
-82,Lloret de Mar,802.65,170950
-83,Llívia,110.93,170947
-84,Madremanya,21.02,170979
-85,Maià de Montcal,26.76,170985
-86,Masarac,22.86,171002
-87,Massanes,30.5,171019
-88,Maçanet de Cabrenys,10.28,171024
-89,Maçanet de la Selva,154.96,171030
-90,Meranges,2.68,170998
-91,Mieres,13.12,171058
-92,Mollet de Peralada,33.0,171061
-93,Molló,7.8,171077
-94,Mont-ras,136.59,171100
-95,Montagut i Oix,9.93,171096
-96,Navata,77.14,171117
-97,Ogassa,5.31,171122
-98,Olot,1238.83,171143
-99,Ordis,41.98,171156
-100,Osor,8.21,171169
-101,Palafrugell,864.09,171175
-102,Palamós,1295.36,171181
-103,Palau de Santa Eulàlia,10.71,171194
-104,Palau-sator,25.0,171215
-105,Palau-saverdera,88.78,171208
-106,Palol de Revardit,24.89,171236
-107,Pals,92.83,171241
-108,Pardines,5.43,171254
-109,Parlavà,63.06,171267
-110,Pau,52.06,171289
-111,Pedret i Marzà,21.95,171292
-112,Peralada,43.53,171328
-113,Planoles,16.17,171349
-114,Pont de Molins,59.31,171352
-115,Pontós,18.98,171365
-116,Porqueres,139.61,171371
-117,Portbou,115.54,171387
-118,Puigcerdà,501.9,171411
-119,Quart,99.69,171426
-120,Queralbs,2.01,170433
-121,Rabós,4.08,171432
-122,Regencós,43.81,171447
-123,Ribes de Freser,42.0,171450
-124,Riells i Viabrea,153.81,171463
-125,Ripoll,146.58,171479
-126,Riudarenes,46.3,171485
-127,Riudaura,20.38,171498
-128,Riudellots de la Selva,158.09,171501
-129,Riumors,37.85,171518
-130,Roses,431.53,171523
-131,Rupià,51.51,171539
-132,Sales de Llierca,4.44,171544
-133,Salt,4869.39,171557
-134,Sant Andreu Salou,26.67,171576
-135,Sant Aniol de Finestres,7.23,171833
-136,Sant Climent Sescebes,28.98,171582
-137,Sant Feliu de Buixalleu,12.88,171595
-138,Sant Feliu de Guíxols,1364.01,171609
-139,Sant Feliu de Pallerols,41.17,171616
-140,Sant Ferriol,5.59,171621
-141,Sant Gregori,79.84,171637
-142,Sant Hilari Sacalm,68.46,171642
-143,Sant Jaume de Llierca,128.09,171655
-144,Sant Joan de Mollet,160.65,171680
-145,Sant Joan de les Abadesses,60.04,171674
-146,Sant Joan les Fonts,95.42,171851
-147,Sant Jordi Desvalls,64.96,171668
-148,Sant Julià de Ramis,190.21,171693
-149,Sant Julià del Llor i Bonmatí,135.36,179032
-150,Sant Llorenç de la Muga,8.33,171714
-151,Sant Martí Vell,14.34,171735
-152,Sant Martí de Llémena,14.87,171729
-153,Sant Miquel de Campmajor,6.9,171740
-154,Sant Miquel de Fluvià,217.43,171753
-155,Sant Mori,22.13,171766
-156,Sant Pau de Segúries,79.08,171772
-157,Sant Pere Pescador,113.59,171788
-158,Santa Coloma de Farners,189.28,171805
-159,Santa Cristina d'Aro,78.33,171812
-160,Santa Llogaia d'Àlguema,193.68,171827
-161,Santa Pau,32.94,171848
-162,Sarrià de Ter,1245.0,171864
-163,"Saus, Camallera i Llampaies",75.09,171870
-164,Serinyà,65.11,171903
-165,Serra de Daró,28.1,171910
-166,Setcases,3.46,171925
-167,Sils,207.99,171931
-168,Siurana,16.29,170524
-169,Susqueda,1.84,171946
-170,Terrades,16.1,171962
-171,Torrent,20.5,171978
-172,Torroella de Fluvià,41.6,171984
-173,Torroella de Montgrí,179.61,171997
-174,Tortellà,73.69,172001
-175,Toses,2.9,172018
-176,Tossa de Mar,150.73,172023
-177,Ullastret,24.68,172057
-178,Ullà,161.23,172044
-179,Ultramort,52.33,172039
-180,Urús,11.26,172060
-181,Vall-llobrega,163.09,172095
-182,Vallfogona de Ripollès,5.0,171707
-183,Ventalló,33.71,172109
-184,Verges,120.52,172116
-185,Vidreres,165.65,172137
-186,Vidrà,5.15,172121
-187,Vila-sacra,126.33,172305
-188,Vilabertran,431.74,172142
-189,Vilablareix,494.03,172155
-190,Viladamat,39.15,172174
-191,Viladasens,13.12,172168
-192,Vilademuls,13.58,172180
-193,Viladrau,20.65,172207
-194,Vilafant,645.36,172214
-195,Vilajuïga,85.19,172235
-196,Vilallonga de Ter,6.2,172240
-197,Vilamacolum,67.32,172253
-198,Vilamalla,131.93,172266
-199,Vilamaniscle,38.55,172272
-200,Vilanant,22.84,172288
-201,Vilaür,28.73,172229
-202,Vilobí d'Onyar,102.24,172333
-203,Vilopriu,12.44,172327
-204,"Vulpellac, Fonteta i Peratallada",33.5,179026
-205,el Far d'Empordà,66.89,170059
-206,el Port de la Selva,23.03,171404
-207,l'Armentera,169.82,170118
-208,l'Escala,628.47,170622
-209,la Bisbal d'Empordà,541.7,170221
-210,la Cellera de Ter,133.56,171899
-211,la Jonquera,58.35,170865
-212,la Pera,37.83,171306
-213,la Selva de Mar,27.08,171886
-214,la Tallada d'Empordà,27.35,171959
-215,la Vajol,18.94,170144
-216,la Vall d'en Bas,34.1,172076
-217,la Vall de Bianya,13.62,172082
-218,les Llosses,1.86,170963
-219,les Planes d'Hostoles,45.65,171334
-220,les Preses,197.34,171390
-0,Aiguamúrcia,12.74,430017
-1,Albinyana,127.22,430022
-2,Alcanar,200.3,430043
-3,Alcover,111.83,430056
-4,Aldover,44.8,430069
-5,Alfara de Carles,5.88,430081
-6,Alforja,46.68,430094
-7,Alió,62.74,430108
-8,Almoster,223.5,430115
-9,Altafulla,758.14,430120
-10,Amposta,152.68,430141
-11,Arbolí,6.11,430154
-12,Arnes,10.33,430189
-13,Ascó,22.34,430192
-14,Banyeres del Penedès,262.87,430206
-15,Barberà de la Conca,17.71,430213
-16,Batea,14.81,430228
-17,Bellmunt del Priorat,30.67,430234
-18,Bellvei,269.52,430249
-19,Benifallet,11.59,430252
-20,Benissanet,49.35,430265
-21,Blancafort,26.34,430290
-22,Bonastre,27.4,430304
-23,Bot,15.87,430326
-24,Botarell,90.5,430332
-25,Bràfim,108.59,430347
-26,Cabassers,9.65,430350
-27,Cabra del Camp,43.68,430363
-28,Calafell,1352.99,430379
-29,Camarles,126.75,439039
-30,Cambrils,986.76,430385
-31,Capafonts,8.35,430398
-32,Capçanes,17.42,430402
-33,Caseres,5.52,430419
-34,Castellvell del Camp,543.85,430424
-35,Colldejou,11.59,430458
-36,Conesa,3.45,430461
-37,Constantí,215.7,430477
-38,Corbera d'Ebre,18.89,430483
-39,Cornudella de Montsant,14.87,430496
-40,Creixell,357.9,430509
-41,Cunit,1395.15,430516
-42,Deltebre,107.8,439018
-43,Duesaigües,17.94,430537
-44,Falset,86.55,430555
-45,Figuerola del Camp,14.49,430593
-46,Flix,29.17,430607
-47,Forès,2.69,430614
-48,Freginals,21.88,430629
-49,Gandesa,43.48,430640
-50,Garcia,10.06,430653
-51,Ginestar,48.35,430672
-52,Godall,17.8,430688
-53,Gratallops,17.56,430691
-54,Horta de Sant Joan,9.63,430712
-55,Llorac,3.91,430733
-56,Llorenç del Penedès,520.65,430748
-57,Margalef,3.05,430751
-58,Marçà,37.27,430764
-59,Mas de Barberans,7.16,430770
-60,Masdenverge,73.36,430786
-61,Masllorenç,77.69,430799
-62,Maspujols,222.43,430810
-63,Miravet,21.86,430846
-64,Mont-ral,4.84,430918
-65,Mont-roig del Camp,196.84,430923
-66,Montblanc,81.0,430862
-67,Montbrió del Camp,271.87,430884
-68,Montferri,21.1,430897
-69,Móra d'Ebre,126.27,430939
-70,Móra la Nova,195.47,430944
-71,Nulles,48.02,430982
-72,Passanant i Belltall,5.66,431016
-73,Paüls,12.44,431021
-74,Perafort,133.05,431037
-75,Pira,62.88,431074
-76,Poboleda,23.09,431129
-77,Pontils,1.8,431418
-78,Porrera,14.72,431140
-79,Pradell de la Teixeta,7.25,431153
-80,Prades,18.04,431166
-81,Prat de Comte,6.7,431172
-82,Pratdip,20.0,431188
-83,Puigpelat,122.42,431191
-84,Querol,7.16,431205
-85,Rasquera,15.26,431212
-86,Renau,19.76,431227
-87,Reus,2010.76,431233
-88,Riba-roja d'Ebre,11.2,431251
-89,Riudecanyes,67.02,431270
-90,Riudecols,60.97,431286
-91,Riudoms,202.75,431299
-92,Rocafort de Queralt,24.82,431303
-93,Roda de Berà,411.21,431310
-94,Rodonyà,58.12,431325
-95,Roquetes,59.01,431331
-96,Salomó,45.0,431359
-97,Salou,1889.14,439057
-98,Sant Carles de la Ràpita,278.45,431362
-99,Sant Jaume d'Enveja,58.01,439023
-100,Sant Jaume dels Domenys,107.54,431378
-101,Santa Bàrbara,132.21,431384
-102,Santa Coloma de Queralt,78.82,431397
-103,Santa Oliva,345.67,431401
-104,Sarral,29.35,431423
-105,Savallà del Comtat,3.58,431439
-106,Senan,3.76,431460
-107,Solivella,29.53,431476
-108,Tivenys,16.86,431495
-109,Tivissa,7.73,431508
-110,Torredembarra,1904.25,431536
-111,Torroja del Priorat,11.52,431541
-112,Tortosa,153.04,431554
-113,Ulldecona,51.42,431567
-114,Ulldemolins,10.42,431573
-115,Vallclara,6.47,431589
-116,Vallfogona de Riucorb,7.06,431592
-117,Vallmoll,106.23,431606
-118,Valls,442.62,431613
-119,Vandellòs i l'Hospitalet de l'Infant,64.29,431628
-120,Vespella de Gaià,23.17,431649
-121,Vila-rodona,38.55,431704
-122,Vila-seca,1044.21,431711
-123,Vilabella,40.05,431652
-124,Vilalba dels Arcs,9.23,431750
-125,Vilallonga del Camp,267.22,431665
-126,Vilanova d'Escornalbou,32.85,431671
-127,Vilanova de Prades,4.98,431687
-128,Vilaplana,23.92,431690
-129,Vilaverd,35.16,431726
-130,Vimbodí i Poblet,13.46,431763
-131,Vinebre,16.1,431779
-132,Vinyols i els Arcs,196.67,431785
-133,Xerta,35.62,430521
-134,el Catllar,172.61,430430
-135,el Lloar,15.91,430727
-136,el Masroig,31.74,430825
-137,el Milà,46.34,430831
-138,el Molar,12.76,430859
-139,el Montmell,21.73,430901
-140,el Morell,634.24,430957
-141,el Perelló,28.06,431042
-142,el Pinell de Brai,17.68,431068
-143,el Pla de Santa Maria,67.09,431080
-144,el Pont d'Armentera,22.49,431135
-145,el Rourell,161.74,431346
-146,el Vendrell,1042.74,431634
-147,els Garidells,61.29,430666
-148,els Guiamets,22.98,430705
-149,els Pallaresos,950.98,431009
-150,l'Albiol,24.63,430038
-151,l'Aldea,117.81,439044
-152,l'Aleixar,34.21,430075
-153,l'Ametlla de Mar,102.63,430136
-154,l'Ampolla,92.05,439060
-155,l'Arboç,397.8,430167
-156,l'Argentera,11.58,430173
-157,l'Espluga de Francolí,65.31,430542
-158,la Bisbal de Falset,14.96,430271
-159,la Bisbal del Penedès,111.72,430287
-160,la Canonja,815.89,439076
-161,la Fatarella,16.39,430568
-162,la Febró,2.48,430574
-163,la Figuera,6.1,430580
-164,la Galera,26.76,430635
-165,la Masó,77.78,430803
-166,la Morera de Montsant,3.01,430960
-167,la Nou de Gaià,139.53,430976
-168,la Palma d'Ebre,8.92,430995
-169,la Pobla de Mafumet,640.48,431093
-170,la Pobla de Massaluca,7.3,431107
-171,la Pobla de Montornès,234.47,431114
-172,la Riba,73.13,431248
-173,la Riera de Gaià,197.95,431264
-174,la Secuita,95.96,431444
-175,la Selva del Camp,160.99,431457
-176,la Sénia,52.03,430445
-177,la Torre de Fontaubella,18.45,431515
-178,la Torre de l'Espanyol,21.54,431520
-179,la Vilella Alta,25.58,431732
-180,la Vilella Baixa,36.43,431747
-181,les Borges del Camp,250.73,430311
-182,les Piles,9.38,431055
-183,Tarragona,2358.258465791292,431482
+Nom municipi,Densitat,MUNICIPI
+Abrera,630.05,80018
+Aguilar de Segarra,6.51,80023
+Aiguafreda,317.97,80142
+Alella,1031.67,80039
+Alpens,18.91,80044
+Arenys de Mar,2344.26,80060
+Arenys de Munt,428.22,80076
+Argentona,493.54,80095
+Argençola,4.65,80082
+Artés,321.9,80109
+Avinyonet del Penedès,58.32,80137
+Avinyó,36.22,80121
+Avià,81.62,80116
+Badalona,10526.7,80155
+Badia del Vallès,14905.56,89045
+Bagà,49.65,80168
+Balenyà,220.69,80174
+Balsareny,86.5,80180
+Barberà del Vallès,4016.14,82520
+Barcelona,16428.25,80193
+Begues,144.84,80207
+Bellprat,2.06,80214
+Berga,741.59,80229
+Bigues i Riells,327.2,80235
+Borredà,10.67,80240
+Cabrera d'Anoia,87.18,80288
+Cabrera de Mar,527.44,80291
+Cabrils,1061.71,80305
+Calaf,397.39,80312
+Calders,31.57,80348
+Caldes d'Estrac,3356.67,80327
+Caldes de Montbui,474.99,80333
+Calella,2409.63,80351
+Calldetenes,433.28,80370
+Callús,170.32,80386
+Calonge de Segarra,5.07,80364
+Campins,74.11,80399
+Canet de Mar,2654.46,80403
+Canovelles,2511.79,80410
+Canyelles,330.92,80431
+Capellades,1817.01,80446
+Capolat,2.46,80459
+Cardedeu,1522.64,80462
+Cardona,69.55,80478
+Carme,67.09,80484
+Casserres,53.83,80497
+Castell de l'Areny,2.75,80575
+Castellar de n'Hug,3.31,80522
+Castellar del Riu,5.38,80500
+Castellar del Vallès,545.39,80517
+Castellbell i el Vilar,130.49,80538
+Castellbisbal,404.48,80543
+Castellcir,21.7,80556
+Castelldefels,5229.46,80569
+Castellet i la Gornal,50.15,80581
+Castellfollit de Riubregós,6.18,80608
+Castellfollit del Boix,7.59,80594
+Castellgalí,123.2,80615
+Castellnou de Bages,49.21,80620
+Castellolí,24.74,80636
+Castellterçol,79.87,80641
+Castellví de Rosanes,117.87,80667
+Castellví de la Marca,55.46,80654
+Centelles,494.28,80673
+Cercs,24.26,82687
+Cerdanyola del Vallès,1890.69,82665
+Cervelló,376.64,80689
+Collbató,251.05,80692
+Collsuspina,23.77,80706
+Copons,17.17,80713
+Corbera de Llobregat,808.8,80728
+Cornellà de Llobregat,12866.38,80734
+Cubelles,1168.15,80749
+Cànoves i Samalús,108.08,80425
+Dosrius,138.87,80752
+Esparreguera,813.94,80765
+Esplugues de Llobregat,10250.0,80771
+Fogars de Montclús,11.96,80811
+Fogars de la Selva,45.76,80826
+Folgueroles,215.71,80832
+Fonollosa,28.22,80847
+Font-rubí,38.04,80850
+Fígols,1.47,80804
+Gaià,4.63,80902
+Gallifa,10.25,80879
+Gavà,1529.81,80898
+Gelida,287.27,80919
+Gironella,727.35,80924
+Gisclareny,0.71,80930
+Granera,3.25,80958
+Granollers,4189.19,80961
+Gualba,66.44,80977
+Guardiola de Berguedà,15.25,80996
+Gurb,52.58,81000
+Igualada,5029.88,81022
+Jorba,26.96,81038
+L'Hospitalet de Llobregat,21724.35,81017
+Llinars del Vallès,362.97,81069
+Lliçà d'Amunt,693.68,81075
+Lliçà de Vall,601.57,81081
+Lluçà,5.21,81094
+Malgrat de Mar,2133.18,81108
+Malla,24.73,81115
+Manlleu,1215.81,81120
+Manresa,1880.89,81136
+Marganell,19.7,82423
+Martorell,2247.81,81141
+Martorelles,1338.89,81154
+Masquefa,549.82,81192
+Matadepera,373.86,81206
+Mataró,5762.71,81213
+Mediona,49.87,81228
+Moià,84.77,81385
+Molins de Rei,1631.45,81234
+Mollet del Vallès,4777.78,81249
+Monistrol de Calders,31.91,81287
+Monistrol de Montserrat,266.02,81271
+Montcada i Reixac,1566.09,81252
+Montclar,6.35,81304
+Montesquiu,210.2,81311
+Montgat,4206.9,81265
+Montmajor,6.13,81326
+Montmaneu,11.1,81332
+Montmeló,2207.75,81350
+Montornès del Vallès,1631.76,81363
+Montseny,13.1,81379
+Muntanyola,15.68,81290
+Mura,4.6,81398
+Navarcles,1101.27,81402
+Navars,74.67,81419
+Olesa de Bonesvalls,59.74,81461
+Olesa de Montserrat,1451.83,81477
+Olivella,101.42,81483
+Olost,40.88,81496
+Olvan,24.1,81445
+Olèrdola,125.18,81458
+Oristà,8.01,81516
+Orpí,9.93,81521
+Orís,11.84,81509
+Pacs del Penedès,145.71,81542
+Palafolls,579.1,81555
+Palau-solità i Plegamans,999.46,81568
+Pallejà,1400.24,81574
+Parets del Vallès,2095.71,81593
+Perafita,20.66,81607
+Piera,282.06,81614
+Pineda de Mar,2615.33,81635
+Polinyà,966.36,81672
+Pontons,20.39,81688
+Prats de Lluçanès,188.7,81712
+Premià de Dalt,1581.97,82303
+Premià de Mar,13586.19,81727
+Puig-reig,93.78,81751
+Puigdàlber,1310.0,81748
+Pujalt,6.69,81764
+Rajadell,11.74,81786
+Rellinars,45.45,81799
+Ripollet,9111.4,81803
+Roda de Ter,2950.0,81831
+Rubió,4.98,81859
+Rubí,2433.16,81846
+Rupit i Pruit,5.67,89019
+Sabadell,5728.04,81878
+Sagàs,3.25,81884
+Saldes,4.19,81901
+Sallent,103.3,81918
+Sant Adrià de Besòs,9854.47,81944
+Sant Agustí de Lluçanès,6.74,81957
+Sant Andreu de Llavaneres,943.47,81976
+Sant Andreu de la Barca,5012.55,81960
+Sant Antoni de Vilamajor,453.14,81982
+Sant Bartomeu del Grau,25.7,81995
+Sant Boi de Llobregat,3930.23,82009
+Sant Boi de Lluçanès,29.74,82016
+Sant Cebrià de Vallalta,218.98,82037
+Sant Celoni,278.16,82021
+Sant Climent de Llobregat,385.19,82042
+Sant Cugat Sesgarrigues,162.74,82068
+Sant Cugat del Vallès,1928.98,82055
+Sant Esteve Sesrovires,413.76,82080
+Sant Esteve de Palautordera,270.19,82074
+Sant Feliu Sasserra,27.01,82129
+Sant Feliu de Codines,424.2,82107
+Sant Feliu de Llobregat,3853.14,82114
+Sant Fost de Campsentelles,670.68,82093
+Sant Fruitós de Bages,398.06,82135
+Sant Hipòlit de Voltregà,3933.33,82153
+Sant Iscle de Vallalta,75.39,81939
+Sant Jaume de Frontanyà,1.41,82166
+Sant Joan Despí,5526.94,82172
+Sant Joan de Vilatorrada,670.61,82188
+Sant Julià de Cerdanyola,19.41,89030
+Sant Julià de Vilatorta,197.48,82205
+Sant Just Desvern,2393.59,82212
+Sant Llorenç Savall,58.81,82233
+Sant Llorenç d'Hortons,123.25,82227
+Sant Martí Sarroca,92.38,82270
+Sant Martí Sesgueioles,87.69,82286
+Sant Martí d'Albars,7.76,82251
+Sant Martí de Centelles,46.25,82248
+Sant Martí de Tous,31.33,82264
+Sant Mateu de Bages,5.91,82299
+Sant Pere Sallavinera,6.86,81897
+Sant Pere de Ribes,762.52,82310
+Sant Pere de Riudebitlles,440.74,82325
+Sant Pere de Torelló,44.83,82331
+Sant Pere de Vilamajor,130.95,82346
+Sant Pol de Mar,723.73,82359
+Sant Quintí de Mediona,167.9,82362
+Sant Quirze Safaja,24.08,82397
+Sant Quirze de Besora,265.93,82378
+Sant Quirze del Vallès,1432.27,82384
+Sant Sadurní d'Anoia,675.84,82401
+Sant Sadurní d'Osormort,2.48,82418
+Sant Salvador de Guardiola,86.82,80983
+Sant Vicenç de Castellet,571.17,82628
+Sant Vicenç de Montalt,796.54,82649
+Sant Vicenç de Torelló,311.82,82652
+Sant Vicenç dels Horts,3106.37,82634
+Santa Cecília de Voltregà,21.16,82439
+Santa Coloma de Cervelló,1102.4,82444
+Santa Coloma de Gramenet,17206.14,82457
+Santa Eugènia de Berga,325.43,82460
+Santa Eulàlia de Riuprimer,100.22,82476
+Santa Eulàlia de Ronçana,522.96,82482
+Santa Fe del Penedès,107.94,82495
+Santa Margarida de Montbui,370.47,82508
+Santa Margarida i els Monjos,446.28,82515
+Santa Maria d'Oló,15.47,82589
+Santa Maria de Besora,6.52,82536
+Santa Maria de Martorelles,197.78,82567
+Santa Maria de Merlès,3.53,82554
+Santa Maria de Miralles,4.76,82573
+Santa Maria de Palautordera,569.82,82592
+Santa Perpètua de Mogoda,1645.51,82606
+Santa Susanna,281.59,82613
+Santpedor,458.07,81923
+Sentmenat,320.66,82671
+Seva,116.58,82690
+Sitges,673.19,82704
+Sobremunt,5.65,82711
+Sora,6.69,82726
+Subirats,55.53,82732
+Súria,252.03,82747
+Tagamanent,7.34,82763
+Talamanca,7.11,82779
+Taradell,250.57,82785
+Tavertet,3.23,82802
+Tavèrnoles,17.13,82750
+Teià,973.79,82819
+Terrassa,3185.57,82798
+Terrassola i Lavit,60.25,82877
+Tiana,1118.13,82824
+Tona,506.42,82830
+Tordera,208.31,82845
+Torelló,1066.67,82858
+Torrelles de Foix,65.34,82883
+Torrelles de Llobregat,446.54,82896
+Ullastrell,286.16,82900
+Vacarisses,167.86,82917
+Vallbona d'Anoia,208.77,82922
+Vallcebre,8.89,82938
+Vallgorguina,135.2,82943
+Vallirana,640.67,82956
+Vallromanes,239.07,82969
+Veciana,4.5,82975
+Vic,1556.54,82981
+Vilada,18.79,82994
+Viladecans,3293.97,83015
+Viladecavalls,375.37,83008
+Vilafranca del Penedès,2048.67,83054
+Vilalba Sasserra,125.5,83067
+Vilanova de Sau,5.31,83036
+Vilanova del Camí,1222.91,83020
+Vilanova del Vallès,362.04,89024
+Vilanova i la Geltrú,1992.15,83073
+Vilassar de Dalt,1019.33,82140
+Vilassar de Mar,5258.75,82191
+Vilobí del Penedès,118.49,83041
+Viver i Serrateix,2.57,83089
+el Bruc,44.7,80253
+el Brull,6.29,80266
+el Figueró i Montmany,76.13,81347
+el Masnou,7009.12,81189
+el Papiol,468.76,81580
+el Pla del Penedès,132.81,81640
+el Pont de Vilomara i Rocafort,142.59,81825
+el Prat de Llobregat,2028.7,81691
+els Hostalets de Pierola,88.96,81629
+els Prats de Rei,20.57,81705
+l'Ametlla del Vallès,608.87,80057
+l'Espunyola,6.82,80787
+l'Esquirol,35.37,82541
+l'Estany,39.61,80790
+la Garriga,886.6,80885
+la Granada,339.69,80945
+la Llacuna,17.3,81043
+la Llagosta,4529.0,81056
+la Nou de Berguedà,6.48,81424
+la Palma de Cervelló,544.0,89058
+la Pobla de Claramunt,118.11,81653
+la Pobla de Lillet,21.22,81666
+la Quar,1.28,81770
+la Roca del Vallès,291.44,81810
+la Torre de Claramunt,249.4,82861
+les Cabanyes,890.0,80272
+les Franqueses del Vallès,699.79,80863
+les Masies de Roda,43.84,81167
+les Masies de Voltregà,139.82,81173
+Òdena,69.6,81430
+Òrrius,132.98,81537
+Abella de la Conca,2.34,250019
+Agramunt,67.89,250030
+Aitona,38.37,250387
+Albatàrrec,212.95,250077
+Albesa,41.52,250083
+Alcanó,11.33,250100
+Alcarràs,84.93,250117
+Alcoletge,205.69,250122
+Alfarràs,242.54,250138
+Alfés,9.31,250143
+Algerri,7.44,250156
+Alguaire,60.46,250169
+Alins,1.48,250175
+Almacelles,139.31,250194
+Almatret,5.37,250208
+Almenar,50.41,250215
+Alpicat,409.54,250236
+Alt Àneu,1.9,250241
+Alàs i Cerc,5.55,250058
+Alòs de Balaguer,1.91,250220
+Anglesola,58.09,250273
+Arbeca,36.47,250292
+Arres,5.17,250313
+Arsèguel,7.64,250328
+Artesa de Lleida,64.23,250334
+Artesa de Segre,19.33,250349
+Aspa,21.57,250365
+Baix Pallars,2.56,250390
+Balaguer,304.92,250404
+Barbens,115.53,250411
+Bassella,3.09,250447
+Bausen,3.39,250450
+Belianes,33.12,250463
+Bell-lloc d'Urgell,66.91,250485
+Bellaguarda,16.78,251706
+Bellcaire d'Urgell,38.18,250479
+Bellmunt d'Urgell,36.27,250498
+Bellpuig,149.09,250501
+Bellver de Cerdanya,20.42,250518
+Bellvís,48.39,250523
+Benavent de Segrià,205.14,250539
+Biosca,2.67,250557
+Bossòst,39.54,250595
+Bovera,7.97,250560
+Cabanabona,5.0,250609
+Cabó,1.16,250616
+Camarasa,5.16,250621
+Canejan,1.84,250637
+Castell de Mur,2.77,259046
+Castellar de la Ribera,2.18,250642
+Castelldans,14.29,250674
+Castellnou de Seana,41.3,250680
+Castellserà,63.04,250707
+Castelló de Farfanya,10.25,250693
+Cava,1.07,250714
+Cervera,169.38,250729
+Cervià de les Garrigues,19.36,250735
+Ciutadilla,12.24,250740
+Clariana de Cardener,3.95,250753
+Coll de Nargó,3.57,250772
+Conca de Dalt,2.46,251615
+Corbins,69.62,250788
+Cubells,8.62,250791
+Es Bòrdes,11.92,250576
+Espot,3.76,250827
+Estamariu,5.9,250886
+Estaràs,7.43,250851
+Esterri d'Àneu,94.59,250864
+Esterri de Cardós,3.86,250870
+Farrera,1.74,250899
+Fondarella,143.7,250931
+Foradada,7.1,250946
+Fulleda,6.3,250978
+Fígols i Alinyà,2.4,259084
+Gavet de la Conca,2.87,250984
+Gimenells i el Pla de la Font,20.07,259123
+Golmés,111.75,250997
+Granyanella,5.86,251039
+Granyena de Segarra,9.26,251044
+Granyena de les Garrigues,6.83,251057
+Guimerà,10.5,251095
+Guissona,400.44,251109
+Guixers,1.99,251116
+Gósol,3.66,251001
+Isona i Conca Dellà,7.47,251155
+Ivars d'Urgell,63.25,251137
+Ivars de Noguera,12.25,251121
+Ivorra,7.01,251142
+Josa i Tuixén,1.51,259101
+Juncosa,5.16,251180
+Juneda,74.02,251193
+La Granja d'Escarp,23.95,251023
+Les,41.5,251214
+Linyola,94.67,251229
+Lladorre,1.61,251235
+Lladurs,1.41,251240
+Llardecans,6.73,251253
+Llavorsí,5.05,251266
+Lleida,661.34,251207
+Lles de Cerdanya,2.63,251272
+Llimiana,3.5,251288
+Llobera,4.8,251291
+Maials,15.92,251333
+Maldà,7.23,251305
+Massalcoreig,43.26,251312
+Massoteres,8.12,251327
+Menàrguens,40.05,251348
+Miralcamp,92.95,251351
+Mollerussa,2063.24,251370
+Montellà i Martinet,10.51,251399
+Montferrer i Castellbò,5.85,251403
+Montgai,22.25,251386
+Montoliu de Lleida,66.16,251425
+Montoliu de Segarra,6.34,251410
+Montornès de Segarra,7.8,251431
+Nalec,9.68,251459
+Naut Aran,7.18,250254
+Navès,1.95,251462
+Odèn,2.26,251484
+Oliana,56.88,251497
+Oliola,2.35,251500
+Olius,17.9,251517
+Organyà,61.68,251556
+Os de Balaguer,7.21,251569
+Ossó de Sió,7.72,251575
+Penelles,17.1,251641
+Peramola,6.17,251654
+Pinell de Solsonès,2.12,251667
+Pinós,2.74,251673
+Ponts,86.69,251728
+Prats i Sansor,33.64,251752
+Preixana,18.0,251765
+Preixens,14.56,251771
+Prullans,10.66,251790
+Puiggròs,28.08,251804
+Puigverd d'Agramunt,13.47,251811
+Puigverd de Lleida,107.92,251826
+Rialb,10.13,251832
+Ribera d'Ondara,7.94,259059
+Ribera d'Urgellet,8.71,251850
+Riner,5.58,251863
+Riu de Cerdanya,7.56,259139
+Rosselló,326.97,251898
+Salàs de Pallars,16.11,251902
+Sanaüja,11.48,251919
+Sant Esteve de la Sarga,1.31,251961
+Sant Guim de Freixenet,41.31,251924
+Sant Guim de la Plana,14.6,251977
+Sant Llorenç de Morunys,223.26,251930
+Sant Martí de Riucorb,18.31,259025
+Sant Ramon,26.32,251945
+Sarroca de Bellera,1.33,252017
+Sarroca de Lleida,8.48,252000
+Senterada,4.03,252022
+Seròs,22.68,252043
+Sidamon,92.35,252056
+Solsona,516.21,252075
+Soriguera,3.95,252081
+Sort,20.49,252094
+Soses,58.31,252108
+Sudanell,96.55,252115
+Sunyer,27.01,252120
+Talarn,21.33,252154
+Talavera,9.27,252167
+Tarroja de Segarra,24.74,252192
+Tarrés,7.85,252189
+Tiurana,4.84,252228
+Tornabous,33.97,252252
+Torre-serona,67.46,252332
+Torrebesses,9.74,252265
+Torrefarrera,199.74,252287
+Torrefeta i Florejacs,6.83,259078
+Torregrossa,53.8,252304
+Torrelameu,67.43,252311
+Torres de Segre,46.76,252326
+Torà,13.26,252234
+Tremp,19.52,252347
+Tàrrega,197.34,252173
+Térmens,49.45,252206
+Tírvia,15.76,252213
+Vall de Cardós,6.23,259010
+Vallbona de les Monges,7.13,252385
+Vallfogona de Balaguer,70.59,252402
+Verdú,25.2,252424
+Vielha e Mijaran,26.5,252430
+Vila-sana,38.43,252521
+Vilagrassa,28.14,252445
+Vilaller,9.27,252458
+Vilamòs,11.56,252477
+Vilanova de Bellpuig,84.5,252483
+Vilanova de Meià,3.94,252509
+Vilanova de Segrià,115.88,252516
+Vilanova de l'Aguda,3.72,252496
+Vilanova de la Barca,50.37,252542
+Vinaixa,11.97,252555
+el Cogul,8.63,250766
+el Palau d'Anglesola,176.1,251581
+el Poal,75.28,251689
+el Pont de Bar,3.57,250306
+el Pont de Suert,15.24,251734
+el Soleràs,27.21,252069
+el Vilosell,9.21,252537
+els Alamús,39.56,250045
+els Omellons,18.56,251538
+els Omells de na Gaia,9.63,251543
+els Plans de Sió,8.78,259118
+els Torms,10.0,252249
+l'Albagés,14.05,250061
+l'Albi,22.89,250096
+l'Espluga Calba,15.3,250812
+la Baronia de Rialb,1.58,250426
+la Coma i la Pedra,4.21,251636
+la Floresta,25.45,250925
+la Fuliola,112.61,250962
+la Granadella,8.07,251018
+la Guingueta d'Àneu,2.67,259031
+la Molsosa,3.87,251364
+la Pobla de Cérvoles,3.05,251692
+la Pobla de Segur,92.77,251713
+la Portella,60.41,251749
+la Sentiu de Sió,13.99,250352
+la Seu d'Urgell,792.6,252038
+la Torre de Cabdella,4.59,252271
+la Vall de Boí,4.64,250432
+la Vansa i Fórnols,1.4,259097
+les Avellanes i Santa Linya,4.2,250371
+les Borges Blanques,100.37,250582
+les Oluges,9.05,251522
+les Valls d'Aguilar,1.98,259062
+les Valls de Valira,4.58,252398
+Àger,3.61,250024
+Agullana,31.16,170010
+Aiguaviva,55.04,170025
+Albanyà,1.64,170031
+Albons,68.38,170046
+Alp,35.96,170062
+Amer,58.15,170078
+Anglès,346.87,170084
+Arbúcies,76.66,170097
+Argelaguer,31.68,170101
+Avinyonet de Puigventós,133.41,170123
+Banyoles,1806.58,170157
+Begur,187.97,170139
+Bellcaire d'Empordà,53.81,170182
+Besalú,507.55,170195
+Bescanó,139.03,170209
+Beuda,5.18,170216
+Biure,24.1,172348
+Blanes,2255.03,170237
+Boadella i les Escaules,25.19,170293
+Bolvir,36.41,170242
+Bordils,241.23,170255
+Borrassà,77.98,170268
+Breda,752.4,170274
+Brunyola i Sant Martí Sapresa,10.57,170280
+Bàscara,57.2,170160
+Cabanelles,4.8,170314
+Cabanes,64.53,170307
+Cadaqués,102.08,170329
+Caldes de Malavella,137.38,170335
+Calonge i Sant Antoni,337.23,170340
+Campdevànol,99.14,170366
+Campelles,7.53,170372
+Campllong,62.44,170388
+Campmany,23.14,170427
+Camprodon,22.22,170391
+Camós,43.12,170353
+Canet d'Adri,16.42,170405
+Cantallops,15.77,170412
+Cassà de la Selva,230.31,170448
+"Castell d'Aro, Platja d'Aro i S'Agaró",505.96,170486
+Castellfollit de la Roca,1352.86,170464
+Castelló d'Empúries,262.41,170470
+Celrà,285.18,170499
+Cervià de Ter,97.58,170502
+Cistella,11.02,170519
+Colera,18.24,170545
+Colomers,40.47,170558
+Cornellà del Terri,86.61,170561
+Corçà,77.79,170577
+Crespià,22.28,170583
+"Cruïlles, Monells i Sant Sadurní de l'Heura",12.73,179011
+Darnius,15.39,170600
+Das,16.03,170617
+Espinelves,12.7,170638
+Espolla,9.47,170643
+Esponellà,28.76,170656
+Figueres,2447.41,170669
+Flaçà,173.85,170675
+Foixà,16.12,170681
+Fontanals de Cerdanya,15.28,170694
+Fontanilles,15.7,170708
+Fontcoberta,84.91,170715
+Fornells de la Selva,224.37,170736
+Fortià,72.87,170741
+Garrigoles,17.77,170767
+Garriguella,40.62,170773
+Garrigàs,22.66,170754
+Ger,13.44,170789
+Girona,2643.71,170792
+Gombrèn,4.43,170806
+Gualta,44.67,170813
+Guils de Cerdanya,24.95,170828
+Hostalric,1262.06,170834
+Isòvol,26.02,170849
+Jafre,58.64,170852
+Juià,37.98,170871
+Lladó,62.52,170887
+Llagostera,113.18,170890
+Llambilles,48.84,170904
+Llanars,21.66,170911
+Llançà,170.54,170926
+Llers,58.08,170932
+Lloret de Mar,802.65,170950
+Llívia,110.93,170947
+Madremanya,21.02,170979
+Maià de Montcal,26.76,170985
+Masarac,22.86,171002
+Massanes,30.5,171019
+Maçanet de Cabrenys,10.28,171024
+Maçanet de la Selva,154.96,171030
+Meranges,2.68,170998
+Mieres,13.12,171058
+Mollet de Peralada,33.0,171061
+Molló,7.8,171077
+Mont-ras,136.59,171100
+Montagut i Oix,9.93,171096
+Navata,77.14,171117
+Ogassa,5.31,171122
+Olot,1238.83,171143
+Ordis,41.98,171156
+Osor,8.21,171169
+Palafrugell,864.09,171175
+Palamós,1295.36,171181
+Palau de Santa Eulàlia,10.71,171194
+Palau-sator,25.0,171215
+Palau-saverdera,88.78,171208
+Palol de Revardit,24.89,171236
+Pals,92.83,171241
+Pardines,5.43,171254
+Parlavà,63.06,171267
+Pau,52.06,171289
+Pedret i Marzà,21.95,171292
+Peralada,43.53,171328
+Planoles,16.17,171349
+Pont de Molins,59.31,171352
+Pontós,18.98,171365
+Porqueres,139.61,171371
+Portbou,115.54,171387
+Puigcerdà,501.9,171411
+Quart,99.69,171426
+Queralbs,2.01,170433
+Rabós,4.08,171432
+Regencós,43.81,171447
+Ribes de Freser,42.0,171450
+Riells i Viabrea,153.81,171463
+Ripoll,146.58,171479
+Riudarenes,46.3,171485
+Riudaura,20.38,171498
+Riudellots de la Selva,158.09,171501
+Riumors,37.85,171518
+Roses,431.53,171523
+Rupià,51.51,171539
+Sales de Llierca,4.44,171544
+Salt,4869.39,171557
+Sant Andreu Salou,26.67,171576
+Sant Aniol de Finestres,7.23,171833
+Sant Climent Sescebes,28.98,171582
+Sant Feliu de Buixalleu,12.88,171595
+Sant Feliu de Guíxols,1364.01,171609
+Sant Feliu de Pallerols,41.17,171616
+Sant Ferriol,5.59,171621
+Sant Gregori,79.84,171637
+Sant Hilari Sacalm,68.46,171642
+Sant Jaume de Llierca,128.09,171655
+Sant Joan de Mollet,160.65,171680
+Sant Joan de les Abadesses,60.04,171674
+Sant Joan les Fonts,95.42,171851
+Sant Jordi Desvalls,64.96,171668
+Sant Julià de Ramis,190.21,171693
+Sant Julià del Llor i Bonmatí,135.36,179032
+Sant Llorenç de la Muga,8.33,171714
+Sant Martí Vell,14.34,171735
+Sant Martí de Llémena,14.87,171729
+Sant Miquel de Campmajor,6.9,171740
+Sant Miquel de Fluvià,217.43,171753
+Sant Mori,22.13,171766
+Sant Pau de Segúries,79.08,171772
+Sant Pere Pescador,113.59,171788
+Santa Coloma de Farners,189.28,171805
+Santa Cristina d'Aro,78.33,171812
+Santa Llogaia d'Àlguema,193.68,171827
+Santa Pau,32.94,171848
+Sarrià de Ter,1245.0,171864
+"Saus, Camallera i Llampaies",75.09,171870
+Serinyà,65.11,171903
+Serra de Daró,28.1,171910
+Setcases,3.46,171925
+Sils,207.99,171931
+Siurana,16.29,170524
+Susqueda,1.84,171946
+Terrades,16.1,171962
+Torrent,20.5,171978
+Torroella de Fluvià,41.6,171984
+Torroella de Montgrí,179.61,171997
+Tortellà,73.69,172001
+Toses,2.9,172018
+Tossa de Mar,150.73,172023
+Ullastret,24.68,172057
+Ullà,161.23,172044
+Ultramort,52.33,172039
+Urús,11.26,172060
+Vall-llobrega,163.09,172095
+Vallfogona de Ripollès,5.0,171707
+Ventalló,33.71,172109
+Verges,120.52,172116
+Vidreres,165.65,172137
+Vidrà,5.15,172121
+Vila-sacra,126.33,172305
+Vilabertran,431.74,172142
+Vilablareix,494.03,172155
+Viladamat,39.15,172174
+Viladasens,13.12,172168
+Vilademuls,13.58,172180
+Viladrau,20.65,172207
+Vilafant,645.36,172214
+Vilajuïga,85.19,172235
+Vilallonga de Ter,6.2,172240
+Vilamacolum,67.32,172253
+Vilamalla,131.93,172266
+Vilamaniscle,38.55,172272
+Vilanant,22.84,172288
+Vilaür,28.73,172229
+Vilobí d'Onyar,102.24,172333
+Vilopriu,12.44,172327
+"Vulpellac, Fonteta i Peratallada",33.5,179026
+el Far d'Empordà,66.89,170059
+el Port de la Selva,23.03,171404
+l'Armentera,169.82,170118
+l'Escala,628.47,170622
+la Bisbal d'Empordà,541.7,170221
+la Cellera de Ter,133.56,171899
+la Jonquera,58.35,170865
+la Pera,37.83,171306
+la Selva de Mar,27.08,171886
+la Tallada d'Empordà,27.35,171959
+la Vajol,18.94,170144
+la Vall d'en Bas,34.1,172076
+la Vall de Bianya,13.62,172082
+les Llosses,1.86,170963
+les Planes d'Hostoles,45.65,171334
+les Preses,197.34,171390
+Aiguamúrcia,12.74,430017
+Albinyana,127.22,430022
+Alcanar,200.3,430043
+Alcover,111.83,430056
+Aldover,44.8,430069
+Alfara de Carles,5.88,430081
+Alforja,46.68,430094
+Alió,62.74,430108
+Almoster,223.5,430115
+Altafulla,758.14,430120
+Amposta,152.68,430141
+Arbolí,6.11,430154
+Arnes,10.33,430189
+Ascó,22.34,430192
+Banyeres del Penedès,262.87,430206
+Barberà de la Conca,17.71,430213
+Batea,14.81,430228
+Bellmunt del Priorat,30.67,430234
+Bellvei,269.52,430249
+Benifallet,11.59,430252
+Benissanet,49.35,430265
+Blancafort,26.34,430290
+Bonastre,27.4,430304
+Bot,15.87,430326
+Botarell,90.5,430332
+Bràfim,108.59,430347
+Cabassers,9.65,430350
+Cabra del Camp,43.68,430363
+Calafell,1352.99,430379
+Camarles,126.75,439039
+Cambrils,986.76,430385
+Capafonts,8.35,430398
+Capçanes,17.42,430402
+Caseres,5.52,430419
+Castellvell del Camp,543.85,430424
+Colldejou,11.59,430458
+Conesa,3.45,430461
+Constantí,215.7,430477
+Corbera d'Ebre,18.89,430483
+Cornudella de Montsant,14.87,430496
+Creixell,357.9,430509
+Cunit,1395.15,430516
+Deltebre,107.8,439018
+Duesaigües,17.94,430537
+Falset,86.55,430555
+Figuerola del Camp,14.49,430593
+Flix,29.17,430607
+Forès,2.69,430614
+Freginals,21.88,430629
+Gandesa,43.48,430640
+Garcia,10.06,430653
+Ginestar,48.35,430672
+Godall,17.8,430688
+Gratallops,17.56,430691
+Horta de Sant Joan,9.63,430712
+Llorac,3.91,430733
+Llorenç del Penedès,520.65,430748
+Margalef,3.05,430751
+Marçà,37.27,430764
+Mas de Barberans,7.16,430770
+Masdenverge,73.36,430786
+Masllorenç,77.69,430799
+Maspujols,222.43,430810
+Miravet,21.86,430846
+Mont-ral,4.84,430918
+Mont-roig del Camp,196.84,430923
+Montblanc,81.0,430862
+Montbrió del Camp,271.87,430884
+Montferri,21.1,430897
+Móra d'Ebre,126.27,430939
+Móra la Nova,195.47,430944
+Nulles,48.02,430982
+Passanant i Belltall,5.66,431016
+Paüls,12.44,431021
+Perafort,133.05,431037
+Pira,62.88,431074
+Poboleda,23.09,431129
+Pontils,1.8,431418
+Porrera,14.72,431140
+Pradell de la Teixeta,7.25,431153
+Prades,18.04,431166
+Prat de Comte,6.7,431172
+Pratdip,20.0,431188
+Puigpelat,122.42,431191
+Querol,7.16,431205
+Rasquera,15.26,431212
+Renau,19.76,431227
+Reus,2010.76,431233
+Riba-roja d'Ebre,11.2,431251
+Riudecanyes,67.02,431270
+Riudecols,60.97,431286
+Riudoms,202.75,431299
+Rocafort de Queralt,24.82,431303
+Roda de Berà,411.21,431310
+Rodonyà,58.12,431325
+Roquetes,59.01,431331
+Salomó,45.0,431359
+Salou,1889.14,439057
+Sant Carles de la Ràpita,278.45,431362
+Sant Jaume d'Enveja,58.01,439023
+Sant Jaume dels Domenys,107.54,431378
+Santa Bàrbara,132.21,431384
+Santa Coloma de Queralt,78.82,431397
+Santa Oliva,345.67,431401
+Sarral,29.35,431423
+Savallà del Comtat,3.58,431439
+Senan,3.76,431460
+Solivella,29.53,431476
+Tivenys,16.86,431495
+Tivissa,7.73,431508
+Torredembarra,1904.25,431536
+Torroja del Priorat,11.52,431541
+Tortosa,153.04,431554
+Ulldecona,51.42,431567
+Ulldemolins,10.42,431573
+Vallclara,6.47,431589
+Vallfogona de Riucorb,7.06,431592
+Vallmoll,106.23,431606
+Valls,442.62,431613
+Vandellòs i l'Hospitalet de l'Infant,64.29,431628
+Vespella de Gaià,23.17,431649
+Vila-rodona,38.55,431704
+Vila-seca,1044.21,431711
+Vilabella,40.05,431652
+Vilalba dels Arcs,9.23,431750
+Vilallonga del Camp,267.22,431665
+Vilanova d'Escornalbou,32.85,431671
+Vilanova de Prades,4.98,431687
+Vilaplana,23.92,431690
+Vilaverd,35.16,431726
+Vimbodí i Poblet,13.46,431763
+Vinebre,16.1,431779
+Vinyols i els Arcs,196.67,431785
+Xerta,35.62,430521
+el Catllar,172.61,430430
+el Lloar,15.91,430727
+el Masroig,31.74,430825
+el Milà,46.34,430831
+el Molar,12.76,430859
+el Montmell,21.73,430901
+el Morell,634.24,430957
+el Perelló,28.06,431042
+el Pinell de Brai,17.68,431068
+el Pla de Santa Maria,67.09,431080
+el Pont d'Armentera,22.49,431135
+el Rourell,161.74,431346
+el Vendrell,1042.74,431634
+els Garidells,61.29,430666
+els Guiamets,22.98,430705
+els Pallaresos,950.98,431009
+l'Albiol,24.63,430038
+l'Aldea,117.81,439044
+l'Aleixar,34.21,430075
+l'Ametlla de Mar,102.63,430136
+l'Ampolla,92.05,439060
+l'Arboç,397.8,430167
+l'Argentera,11.58,430173
+l'Espluga de Francolí,65.31,430542
+la Bisbal de Falset,14.96,430271
+la Bisbal del Penedès,111.72,430287
+la Canonja,815.89,439076
+la Fatarella,16.39,430568
+la Febró,2.48,430574
+la Figuera,6.1,430580
+la Galera,26.76,430635
+la Masó,77.78,430803
+la Morera de Montsant,3.01,430960
+la Nou de Gaià,139.53,430976
+la Palma d'Ebre,8.92,430995
+la Pobla de Mafumet,640.48,431093
+la Pobla de Massaluca,7.3,431107
+la Pobla de Montornès,234.47,431114
+la Riba,73.13,431248
+la Riera de Gaià,197.95,431264
+la Secuita,95.96,431444
+la Selva del Camp,160.99,431457
+la Sénia,52.03,430445
+la Torre de Fontaubella,18.45,431515
+la Torre de l'Espanyol,21.54,431520
+la Vilella Alta,25.58,431732
+la Vilella Baixa,36.43,431747
+les Borges del Camp,250.73,430311
+les Piles,9.38,431055
+Tarragona,2358.258465791292,431482
